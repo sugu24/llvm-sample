@@ -1,0 +1,11 @@
+int test(int j){
+	printnum(j);
+	return 0;
+}
+
+int main(){
+	int i;
+	i = 10;
+	test(i);
+	return 0;
+}
